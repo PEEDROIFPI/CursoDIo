@@ -1,0 +1,94 @@
+   Programador: Conheça a profissão e veja o que estudar
+
+* O programador atua diretamente na área de TI (tecnologia da informação), com a principal responsabilidade de desenvolver novos softwares e melhorias nas linguagens de programação.
+
+* Aplicativos de mensagens, jogos em diferentes formatos, aplicativos de bancos, sites, programas de computador. Tudo isso é de criação do programador, por isso esta função está em constante crescimento no país, com vagas em diversas empresas. 
+
+* Conheça agora tudo sobre a profissão de programador, veja como se tornar um e onde estudar!
+
+  ##  Como funciona a profissão de programador
+
+  ## 
+
+  * O profissional de Programação é responsável por criar sistemas e programas por meio de códigos. 
+
+  Ele cria programas diversos, como aplicativos de mensagens, de relacionamento, jogos e até de bancos para uso em celulares, mas também programa softwares para computadores, notebooks e tablets, para web e aparelhos que transmitem jogos. 
+
+  Existem quatro categorias de programadores:
+
+  - **Programador Web**: é responsável pela programação de sistemas web ou websites.
+  - **Programador Mobile**: é responsável por criar aplicativos para e dispositivos móveis e celulares. A forma de trabalho se relaciona com Java, Android, Windows Phone, iOS etc.
+  - **Programador de Jogos**: desenvolve a lógica e as estratégias de um game digital, ou seja, cria um novo jogo nas plataformas digitais seja videogames, PC, dispositivos móveis etc.
+
+  Para desenvolver estes programas e sistemas, o profissional precisa entender as principais linguagens de programação: Java, C, C++, C#, Python, VB .NET, PHP, JavaScript, Delphi/Object Pascal e Swift. 
+
+  O programador precisa estar ligado às novas tecnologias, tendências, possibilidades de linguagem, engenharia de software e novidades nos sistemas operacionais.
+
+  Para ter sucesso nesta área, é necessário ter habilidades matemáticas, ser inovador, ter raciocínio lógico, ser autodidata, curioso, persistente, automotivado e capaz de resolver possíveis eventualidades.
+
+  ## **O mercado de trabalho para o programador**
+
+  O mercado de trabalho para quem atua como programador está em constante crescimento no Brasil. Segundo o site Salario.com, os setores que mais estão contratando esses profissionais são:
+
+  - Desenvolvimento de programas de computador e software em geral.
+  - Desenvolvimento e licenciamento de programas de computador customizáveis.
+  - Consultoria em tecnologia da informação.
+  - Desenvolvimento e licenciamento de programas de computador não customizáveis.
+  - Suporte técnico, manutenção e outros serviços em tecnologia da informação.
+  - Comércio varejista especializado em equipamentos e suprimentos de informática.
+  - Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet.
+  - Atividades de consultoria em gestão empresarial.
+  - Reparação e manutenção de computadores e de equipamentos periféricos.
+  - Portais, provedores de conteúdo e outros serviços de informação na internet.
+
+  Ainda, segundo o site, a cidade do país que mais contrata profissionais de programação é São Paulo.
+
+  ## **Quanto ganha um Programador?**
+
+  Segundo o site Catho, um programador ganha em média R$ 2.461, porém esse valor depende bastante do tipo de programa que este profissional desenvolve, da região do país que ele vai atuar, do porte da empresa e de suas qualificações e experiência.
+
+  Veja exemplos de média salarial de acordo com o cargo que este profissional irá atuar:
+
+  - Programador Web: R$ 2.235
+  - Programador PHP: R$ 2.548
+  - Programador Java: R$ 3.244
+  - Programador C++: R$ 3.315
+  - Programador Visual Basic: R$ 2.804
+  - Programador .NET: R$ 3.437
+  - Programador de Jogos: R$ 1.429
+  - Programador de Sharepoint: R$ 6.973
+
+  Esses valores são apenas uma média salarial desses profissionais, mas eles podem ganhar até **R$11 mil** a depender da sua experiência e especialização. 
+
+  ## **Como se tornar um programador?**
+
+  Para se tornar um programador, o melhor caminho é realizar um ensino superior em áreas como Análise e Desenvolvimento de Sistemas, Sistema da Informação ou Ciência da Computação. 
+
+  O curso de [Análise e Desenvolvimento de Sistemas](https://www.guiadacarreira.com.br/carreira/analise-e-desenvolvimento-de-sistemas/) é encontrado no formato de superior tecnológico, com duração média de 2 anos. 
+
+  O de [Ciência da Computação](https://www.guiadacarreira.com.br/guia-das-profissoes/ciencias-contabeis/) tem o formato de bacharelado, com duração média de 5 anos. 
+
+  Já o curso de Sistema da Informação é oferecido nos dois formatos, superior tecnológico, com 2 anos de duração, e bacharelado, com 4 anos. 
+
+  Os cursos superiores tecnológicos têm curta duração, mensalidades mais em conta e suas grades curriculares são baseadas nas necessidades do mercado do trabalho, visando uma maior empregabilidade para esses estudantes. 
+
+  Já os de bacharelado, apesar de terem mensalidades mais altas e tempo maior para a formação, são cursos mais completos, que preparam o estudante para atuar em diversos ramos da área escolhida. 
+
+   As graduações acima podem ser realizadas nas modalidades presencial, semipresencial ou totalmente a distância. 
+
+  ## **Onde estudar para se tornar um programador?**
+
+  Se você quer estudar para se tornar um programador, verifique se a faculdade escolhida é reconhecida pelo Ministério da Educação, pois só assim poderá emitir diploma válido, e você poderá exercer a sua profissão tranquilamente. 
+
+  Para te dar uma ajudinha, trouxemos uma lista com instituições que têm cursos para você se tornar programador, com mensalidades mais baixas e programas de bolsas, descontos e financiamentos sem burocracia e limites de vagas. Confira:
+
+  - [Centro Educacional Anhanguera (ANHANGUERA)](https://que.bo/92j29-lr?partner_id=5eaadd2c&utm_content=insidehref&creative=20422668&CCID=20422668204466422&QTR=ZZf201502241145510Za20422668Zg255Zw0Zm0Zc204466422Zs13637ZZ&CLK=566210317132531679&&exp=y)
+  - [Cruzeiro do Sul Virtual (a distância)](https://que.bo/2pvfrldg?partner_id=5eaadd2c&utm_content=insidehref&CCID=20425374204466435&QTR=ZZf201502241154150Za20425374Zg255Zw0Zm0Zc204466435Zs13637ZZ&CLK=264210317132528442&&exp=y)
+  - [Universidade Cidade de São Paulo (UNICID)](https://que.bo/2pvfrldg?partner_id=5eaadd2c&utm_content=insidehref&CCID=20425374204466435&QTR=ZZf201502241154150Za20425374Zg255Zw0Zm0Zc204466435Zs13637ZZ&CLK=264210317132528442&&exp=y)
+  - [Universidade de Franca (UNIFRAN)](https://que.bo/2pvfrldg?partner_id=5eaadd2c&utm_content=insidehref&CCID=20425374204466435&QTR=ZZf201502241154150Za20425374Zg255Zw0Zm0Zc204466435Zs13637ZZ&CLK=264210317132528442&&exp=y)
+  - [Universidade Norte do Paraná (UNOPAR)](https://que.bo/5ymc3lga?partner_id=5eaadd2c&utm_content=insidehref&CCID=20392648204466438&QTR=ZZf201502241156120Za20392648Zg255Zw0Zm0Zc204466438Zs13637ZZ&CLK=866210317132533081&&exp=y)
+  - [Centro Universitário UNIBTA](https://que.bo/xhqm6vt3?partner_id=5eaadd2c&utm_source=content&utm_medium=organic&utm_content=insideref)
+
+  
+
+  
